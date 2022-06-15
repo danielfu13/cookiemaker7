@@ -46,6 +46,3 @@ testing
   [GitHub](https://github.com/danielfu13)
 
   [Email: daniel.fu123@hotmail.com](mailto:daniel.fu123@hotmail.com)
-
-`;
-}
