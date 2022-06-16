@@ -62,11 +62,11 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(`./dist/generate-README.md`, data, err => {
+    fs.writeToFile(`./dist/README.md`, data, err => {
         if (err) {
             throw err
         };
-        console.log('README created!')
+        console.log('Your Professional README has been created!')
     });
 };
 
