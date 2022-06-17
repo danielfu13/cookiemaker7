@@ -1,6 +1,6 @@
 
   
-  # 123123
+  # Professional README Generator
 
   ## Table of contents
   - [Description](#Description)
@@ -14,15 +14,15 @@
 
   ## Project Description
 
-  
+  This project is a Professional README Generator. This project is used to collect data and help generate and format a professional README File.
 
   ## Installation 
 
-  
+  Clone from Github repo
   
   ## Usage
 
-  
+  NODE INDEX.JS in command line
 
   ## Licence
 
@@ -32,19 +32,19 @@
   ## License
   The application is covered under the following license:
   
-  [GNU GPL v3](https://choosealicense.com/licenses/GNU GPL v3)
+  [Boost](https://choosealicense.com/licenses/Boost)
     
     
 
   ## Contributors
 
-  
+  Daniel 
 
   ## Test
 
-  
+  .
 
   ## Contact Information:
-  * GitHub Username: 
-  * GitHub Email: 
+  * GitHub Username: danielfu13
+  * GitHub Email: daniel.fu123@hotmail.com
 
