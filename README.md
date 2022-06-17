@@ -21,6 +21,8 @@ Download the zip file and open the file in a terminal.
   ## Usage
 
 Run the command: node index.js
+Fill in the given prompts
+To view completed README file, find README.md in the folder "dist"
 
   ## Licence
 
